@@ -36,4 +36,8 @@ src/
 │       └── impl/serviceImpl.java      # 递归统计逻辑
 └── main/resources/static/
     └── index.html                     # 前端页面
+    ![img.png](img.png)
+   
 ```
+## 长这个样子，仅有的一个功能（嘿嘿，等后期demo多了再合成一个大demo）
+![img_1.png](img_1.png)
